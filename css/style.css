@@ -1,0 +1,16 @@
+body
+{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
+form
+{
+    margin-bottom: 20px;
+}
+
+select
+{
+    margin-bottom: 30px;
+}
